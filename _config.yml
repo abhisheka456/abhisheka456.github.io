@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Abhishek Kumar"
   avatar           : "Abhi.jpeg"
-  bio              : "Abhishek Kumar received the B.Tech degree in Electrical Engineering from Uttarakhand Technical University, Dehradun in 2013. He finished his Ph.D. in Systems Engineering at the Department of Electrical Engineering, Indian Institute of Technology (BHU), Varanasi, India in 2019." 
-  employer         : "Visiting Scholar at Kyunpook National University"
+  bio              : "Visiting Scholar at Kyungpook National University"
+  employer         : "https://en.knu.ac.kr/main/main.htm"
   googlescholar    : "https://scholar.google.com/citations?user=uZRyTFIAAAAJ&hl=en"
   email            : "abhishek.kumar.eee13@iitbhu.ac.in"
   researchgate     :  "https://www.researchgate.net/profile/Abhishek_Kumar198"
@@ -173,18 +173,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+ # teaching:
+  #  output: false
+  #  permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+ # portfolio:
+ #   output: false
+ #   permalink: /:collection/:path/
+ # talks:
+ #   output: false
+  #  permalink: /:collection/:path/
 
 
 # Defaults
