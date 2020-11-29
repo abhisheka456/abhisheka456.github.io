@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhishek Kumar/Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Abhishek Kumar"
 description              : &description "Research Scholar at IIT (BHU), Varanasi."
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          :  "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -173,18 +173,18 @@ kramdown:
 
 # Collections
 collections:
- # teaching:
-  #  output: false
-  #  permalink: /:collection/:path/
+  teaching:
+    output: false
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
- # portfolio:
- #   output: false
- #   permalink: /:collection/:path/
- # talks:
- #   output: false
-  #  permalink: /:collection/:path/
+  portfolio:
+    output: false
+   permalink: /:collection/:path/
+  talks:
+   output: false
+    permalink: /:collection/:path/
 
 
 # Defaults
