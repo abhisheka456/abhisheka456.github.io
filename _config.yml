@@ -7,13 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Abhishek Kumar/Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Abhishek Kumar"
+description              : &description "Dr. Abhishek Kumar received the B.Tech degree in Electrical Engineering from Uttarakhand Technical University, Dehradun in 2013. He finished his Ph.D. in Systems Engineering at the Department of Electrical Engineering, Indian Institute of Technology (BHU), Varanasi, India in 2019. He is the recipient of the “Young Researcher Award-2016” from the IEEE CIS
+Chapter, UP section, IIT Kanpur. His developed optimization algorithms “EBOwithCMAR” and “SASS” have secured the first position in IEEE CEC-2017 special session and competition on bound-constrained optimization and IEEE CEC-2020/GECCO-2020 special session and competition on real-world constrained optimization, respectively."
+url                      : https://abhisheka456.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "abhisheka456/abhisheka456.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
