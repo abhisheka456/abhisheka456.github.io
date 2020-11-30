@@ -6,7 +6,7 @@ main:
   - title: "<b style='color:rgba(70, 38, 56, 1);'>Publications </b>"
     url: /publications/
     
-  - title: "<b style='color:rgba(70, 38, 56, 1);'>Ongoing Projects</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);border:2px solid DodgerBlue;'>Ongoing Projects</b>"
     url: /projects/
     
   - title: "<b style='color:rgba(70, 38, 56, 1);'>Achievements</b>"
@@ -15,7 +15,7 @@ main:
   - title: "<b style='color:rgba(70, 38, 56, 1);'>Activities</b>"
     url: /activity/
     
-  - title: "<b style='color:rgba(70, 38, 56, 1);'>Colabrators</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);'>Colabs</b>"
     url: /colab/
     
   - title: "<b style='color:rgba(70, 38, 56, 1);'>Basic Info</b>"
