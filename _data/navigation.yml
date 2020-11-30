@@ -9,7 +9,7 @@ main:
   - title: "<b>Ongoing Projects</b>"
     url: /projects/
     
-  - title: "<b style='color:blue;'>Achievements</b>"
+  - title: "<p style='color:rgba(70, 38, 56, 1);'>Achievements</p>"
     url: /achieve/
    
   - title: "<b style='color:blue;'>Professional Activities</b>"
