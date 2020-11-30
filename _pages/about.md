@@ -14,13 +14,13 @@ redirect_from:
         <li> at CEC-2021, Krakow, Poland, 28 June -01 July 2021 (with full paper), </li>
         <li> at GECCO 2021, Lille, France, 10-14 July 2021 (with 2-page paper). </li>
   </ul>
-  For more detail, please see <a style="color:blue" href="https://www3.ntu.edu.sg/home/epnsugan/index_files/CEC2021/CEC2021-1.htm" style="text-decoration:none" target="_blank">the official website</a>.
+  For more detail, please see <a style="color:black" href="https://www3.ntu.edu.sg/home/epnsugan/index_files/CEC2021/CEC2021-1.htm" style="text-decoration:none" target="_blank">the official website</a>.
   <li> We are organizing  <b><i> "Special Session & Competition on Single Objective Bound Constrained Optimization" </i></b> </li>
       <ul style="list-style-type:disc;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:helvetica">
         <li> at CEC-2021, Krakow, Poland, 28 June -01 July 2021 (with full paper), </li>
         <li> at GECCO 2021, Lille, France, 10-14 July 2021 (with 2-page paper). </li>
   </ul>
-  For more detail, please see <a style="color:blue" href="https://www3.ntu.edu.sg/home/epnsugan/index_files/CEC2021/CEC2021-2.htm" style="text-decoration:none" target="_blank">the official website</a>.
+  For more detail, please see <a style="color:black" href="https://www3.ntu.edu.sg/home/epnsugan/index_files/CEC2021/CEC2021-2.htm" style="text-decoration:none" target="_blank">the official website</a>.
   <li> Our paper has been accepted in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036" style="text-decoration:none" target="_blank"><b>IEEE Transactions on Cybernatics</b></a> (SCI IF-11.079):
     <ul style="list-style-type:disc;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:helvetica">
       <li> <b>Abhishek Kumar</b>, Swagatam Das, Rakesh Kumar Misra, and Deveneder Singh.-<b><i>A v-constrained Matrix Adaptation Evolution Strategy with Broyden-based Mutation for Constrained Optimization.</i></b> </li>
