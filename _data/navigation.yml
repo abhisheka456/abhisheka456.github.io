@@ -9,16 +9,16 @@ main:
   - title: "<b>Ongoing Projects</b>"
     url: /projects/
     
-  - title: "Achievements"
+  - title: "<b>Achievements</b>"
     url: /achieve/
    
-  - title: "Professional Activities"
+  - title: "<b style='color:blue;'>Professional Activities</b>"
     url: /activity/
     
-  - title: "Colabrators"
+  - title: "<b>Colabrators</b>"
     url: /colab/
     
-  - title: "Basic Info"
+  - title: "<b>Basic Info</b>"
     url: /cv/
     
 
