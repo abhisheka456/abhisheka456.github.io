@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<style> div { background-color: rgba(106,218,255,0.9); } <\style>
