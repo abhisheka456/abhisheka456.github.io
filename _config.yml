@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "<span style='color: red;'>Dr. Abhishek Kumar </span>"
+  name             : "<span style='color: rgba(106,218,255,0.9);'>Dr. Abhishek Kumar </span>"
   avatar           : "Abhi.jpeg"
-  bio              : "Visiting Scholar at Kyungpook National University"
-  employer         : "KNU, R. of Korea"
+  bio              : "<span style='color: rgba(106,218,255,0.9);'>Visiting Scholar at Kyungpook National University</span>"
+  employer         : "<span style='color: rgba(106,218,255,0.9);'>KNU, R. of Korea</span>"
   googlescholar    : "https://scholar.google.com/citations?user=uZRyTFIAAAAJ&hl=en"
   email            : "abhishek.kumar.eee13@iitbhu.ac.in"
   researchgate     :  "https://www.researchgate.net/profile/Abhishek_Kumar198"
