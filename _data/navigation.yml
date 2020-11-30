@@ -3,22 +3,22 @@ main:
 
   
     
-  - title: "<b>Publications </b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);'>Publications </b>"
     url: /publications/
     
-  - title: "<b>Ongoing Projects</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);'>Ongoing Projects</b>"
     url: /projects/
     
-  - title: "<p style='color:rgba(70, 38, 56, 1);'>Achievements</p>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);'>Achievements</b>"
     url: /achieve/
    
-  - title: "<b style='color:blue;'>Professional Activities</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);'>Professional Activities</b>"
     url: /activity/
     
-  - title: "<b>Colabrators</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);'>Colabrators</b>"
     url: /colab/
     
-  - title: "<b>Basic Info</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);'>Basic Info</b>"
     url: /cv/
     
 
