@@ -6,7 +6,7 @@ main:
   - title: "<span style:'color: red;'>Publications </span>"
     url: /publications/
     
-  - title: "Ongoing Projects"
+  - title: "<span style:'color: red;'>Ongoing Projects</span>"
     url: /projects/
     
   - title: "Achievements"
