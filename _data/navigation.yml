@@ -6,7 +6,7 @@ main:
   - title: "<b style='color:rgba(70, 38, 56, 1);'>Publications </b>"
     url: /publications/
     
-  - title: "<b style='color:rgba(70, 38, 56, 1);background-color:2px solid DodgerBlue;'>Ongoing Projects</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);background-color: DodgerBlue;'>Ongoing Projects</b>"
     url: /projects/
     
   - title: "<b style='color:rgba(70, 38, 56, 1);'>Achievements</b>"
