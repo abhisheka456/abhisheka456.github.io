@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "<span style='color: red;'>Dr. Abhishek Kumar </span>"
+name                     : &name "Dr. Abhishek Kumar"
 description              : &description "Research Scholar at IIT (BHU), Varanasi."
 url                      : https://abhisheka456.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
