@@ -24,7 +24,7 @@ redirect_from:
   <li> Our paper has been accepted in <b>IEEE Transactions on Cybernatics</b> (SCI IF-11.079):
     <ul style="list-style-type:disc;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:helvetica">
       <li> <b>Abhishek Kumar</b>, Swagatam Das, Rakesh Kumar Misra, and Deveneder Singh.-<b><i>A &#973-constrained Matrix Adaptation Evolution Strategy with Broyden-based Mutation for Constrained Optimization.</i></b> </li>
-  </ul>
+    </ul></li>
 </ul>
 
 <h1 style="color:Red;font-family:courier"> <b>Short Biography</b></h1>
