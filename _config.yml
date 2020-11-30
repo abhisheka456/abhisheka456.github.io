@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "<b style='color:rgba(70, 38, 56, 1);background-color: rgba(210, 255, 232, 0.2);'>Homepage</b>"
 title_separator          : "-"
 name                     : &name "Dr. Abhishek Kumar"
 description              : &description "Research Scholar at IIT (BHU), Varanasi."
