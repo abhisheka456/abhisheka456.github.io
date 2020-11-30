@@ -3,10 +3,10 @@ main:
 
   
     
-  - title: "<span style:'color: red;'>Publications </span>"
+  - title: "<b>Publications </b>"
     url: /publications/
     
-  - title: "<span style:'color: red;'>Ongoing Projects</span>"
+  - title: "<b>Ongoing Projects</b>"
     url: /projects/
     
   - title: "Achievements"
