@@ -25,6 +25,10 @@ redirect_from:
     <ul style="list-style-type:disc;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:helvetica">
       <li> <b>Abhishek Kumar</b>, Swagatam Das, Rakesh Kumar Misra, and Deveneder Singh.-<b><i>A v-constrained Matrix Adaptation Evolution Strategy with Broyden-based Mutation for Constrained Optimization.</i></b> </li>
     </ul></li>
+  <li> Our paper has been accepted in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036" style="text-decoration:none" target="_blank"><b>IEEE Transactions on Cybernatics</b></a> (SCI IF-11.079):
+    <ul style="list-style-type:disc;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:helvetica">
+      <li> <b>Abhishek Kumar</b>, Swagatam Das, and Rammohan Mallipeddi.-<b><i>A Reference Vec-tor based Simplified Covariance Matrix Adaptation Evolution Strategy for Con-strained Global Optimization.</i></b> </li>
+    </ul></li>
 </ul>
 
 <h1 style="color:Red;font-family:courier"> <b>Short Biography</b></h1>
