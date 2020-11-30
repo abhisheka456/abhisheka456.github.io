@@ -23,7 +23,6 @@ I am broadly interested in Evolutionary Computation, Nature-inspired Algorithms,
   <li>Renewable Energy Resources,</li>
   <li>Islanded Microgrids Operations,</li>
   <li>Assessment of Electric Vehicl, , Distributed Generation,  and Distributed Battery Energy Storage System.</li>
-  <li>
 </ul>
 </p>
 
