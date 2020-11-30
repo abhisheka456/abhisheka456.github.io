@@ -26,7 +26,7 @@ I am broadly interested in Evolutionary Computation, Nature-inspired Algorithms,
 
 <style>
 div {
-  background-color: rgba(106,218,255,0.9);
+  background-color: rgba(255, 221, 232, 0.5);
 }
 <\style>
    
