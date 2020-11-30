@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<p style="color:red;"> Dr. Abhishek Kumar: About me </p>"
+title: "Dr. Abhishek Kumar: About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
