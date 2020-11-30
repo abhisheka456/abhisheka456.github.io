@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "<span style:'color: #FF0000;'>Homepage</span>"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Dr. Abhishek Kumar"
+name                     : &name "<span style='color: red;'>Dr. Abhishek Kumar </span>"
 description              : &description "Research Scholar at IIT (BHU), Varanasi."
 url                      : https://abhisheka456.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
