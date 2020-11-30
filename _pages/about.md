@@ -14,17 +14,7 @@ redirect_from:
 <h1 style="color:Red;font-family:courier"> <b>Research Interest</b></h1>
 
 <p style="background-color:rgba(106,218,255,0.9); color:rgba(98, 0, 0, 1);border:3px solid Tomato;text-align: justify;font-family:helvetica"> 
-I am broadly interested in Evolutionary Computation, Nature-inspired Algorithms, Swarm Intelligence, Constraint Handling Techniques, and Multi- and Many-objective Optimization. I am also interested in the following areas.
-<ul>
-  <li>Conventional Optimization Algorithms,</li>
-  <li>Power System Optimization,</li>
-  <li>Load Flow Algorithms,</li>
-  <li>Load Modelling,</li>
-  <li>Renewable Energy Resources,</li>
-  <li>Islanded Microgrids Operations,</li>
-  <li>Assessment of Electric Vehicl, , Distributed Generation,  and Distributed Battery Energy Storage System.</li>
-</ul>
-</p>
+I am broadly interested in Evolutionary Computation, Nature-inspired Algorithms, Swarm Intelligence, Constraint Handling Techniques, and Multi- and Many-objective Optimization. I am also interested in the following areas. <ul><li>Conventional Optimization Algorithms,</li><li>Power System Optimization,</li><li>Load Flow Algorithms,</li><li>Load Modelling,</li><li>Renewable Energy Resources,</li><li>Islanded Microgrids Operations,</li> <li>Assessment of Electric Vehicl, , Distributed Generation,  and Distributed Battery Energy Storage System.</li></ul></p>
 
 <style>
 div {
