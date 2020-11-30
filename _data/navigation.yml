@@ -12,7 +12,7 @@ main:
   - title: "<b style='color:rgba(70, 38, 56, 1);'>Achievements</b>"
     url: /achieve/
    
-  - title: "<b style='color:rgba(70, 38, 56, 1);'>Professional Activities</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);'>Activities</b>"
     url: /activity/
     
   - title: "<b style='color:rgba(70, 38, 56, 1);'>Colabrators</b>"
