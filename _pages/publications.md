@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-<style> div { background-color: rgba(106,218,255,0.9); } <\style>
+<style> div { background-color: rgba(210, 255, 232, 0.2); } <\style>
