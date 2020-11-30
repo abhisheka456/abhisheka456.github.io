@@ -3,22 +3,22 @@ main:
 
   
     
-  - title: "<b style='color:rgba(70, 38, 56, 1);'>Publications </b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);background-color: rgba(210, 255, 232, 0.2);'>Publications </b>"
     url: /publications/
     
-  - title: "<b style='color:rgba(70, 38, 56, 1);background-color: DodgerBlue;'>Ongoing Projects</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);background-color: rgba(210, 255, 232, 0.2);'>Ongoing Projects</b>"
     url: /projects/
     
-  - title: "<b style='color:rgba(70, 38, 56, 1);'>Achievements</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);background-color: rgba(210, 255, 232, 0.2);'>Achievements</b>"
     url: /achieve/
    
-  - title: "<b style='color:rgba(70, 38, 56, 1);'>Activities</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);background-color: rgba(210, 255, 232, 0.2);'>Activities</b>"
     url: /activity/
     
-  - title: "<b style='color:rgba(70, 38, 56, 1);'>Colabs</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);background-color: rgba(210, 255, 232, 0.2);'>Colabs</b>"
     url: /colab/
     
-  - title: "<b style='color:rgba(70, 38, 56, 1);'>Basic Info</b>"
+  - title: "<b style='color:rgba(70, 38, 56, 1);background-color: rgba(210, 255, 232, 0.2);'>Basic Info</b>"
     url: /cv/
     
 
