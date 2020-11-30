@@ -14,3 +14,4 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+<style> div { background-color: rgba(106,218,255,0.9); } <\style>
