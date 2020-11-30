@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Abhishek Kumar"
+  name             : "<span style='color: red;'>Dr. Abhishek Kumar </span>"
   avatar           : "Abhi.jpeg"
   bio              : "Visiting Scholar at Kyungpook National University"
   employer         : "KNU, R. of Korea"
