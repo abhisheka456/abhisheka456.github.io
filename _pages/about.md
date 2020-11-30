@@ -12,9 +12,9 @@ redirect_from:
   <li> We are organizing  <b><i> "Special Session & Competition on Real-World Multiobjective Constrained Optimization" </i></b> </li>
       <ul style="list-style-type:disc;background-color:rgba(106,218,255,0.9); color:rgba(98, 0, 0, 1);text-align: justify;font-family:helvetica">
         <li> at CEC-2021, Krakow, Poland, 28 June -01 July 2021 (with full paper), </li>
-        <li> at GECCO 2021, Lille, France, 10-14 July 2021 (with 2-page paper), </li>
+        <li> at GECCO 2021, Lille, France, 10-14 July 2021 (with 2-page paper). </li>
   </ul>
-  For more detail, please see <a style="href=color:rgba(98, 0, 0, 1)" "https://www3.ntu.edu.sg/home/epnsugan/index_files/CEC2021/CEC2021-1.htm">the official website</a>.
+  For more detail, please see <a style="color:rgba(98, 0, 0, 1)" href="https://www3.ntu.edu.sg/home/epnsugan/index_files/CEC2021/CEC2021-1.htm">the official website</a>.
 </ul>
 
 <h1 style="color:Red;font-family:courier"> <b>Short Biography</b></h1>
