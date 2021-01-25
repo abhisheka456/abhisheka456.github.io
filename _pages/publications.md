@@ -4,7 +4,8 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-<h1 style="color:Red;font-family:courier"> <b>News</b></h1>
+<h1 style="color:Red;font-family:courier"> <b>Journals</b></h1>
+<h2 style="color:Blue;font-family:helvetica"> <b>Journals</b></h2>
 <ul style="font-size:14px;list-style-type:circle;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:helvetica">
   <li> We are organizing  <b><i> "Special Session & Competition on Real-World Multiobjective Constrained Optimization" </i></b> </li>
       <ul style="list-style-type:disc;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:helvetica">
