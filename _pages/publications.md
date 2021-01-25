@@ -20,7 +20,7 @@ author_profile: true
  
   <li> <b><em> Accepted/Published </em></b> </li>
     <ul style="list-style-type:disc;background-color:rgba(210, 255, 232, 0.2); color:rgba(17, 5, 95, 1);text-align: justify;font-family:'Times New Roman', serif">
-      <li> <b>Abhishek Kumar</b>, Swagatam Das, Rakesh Kumar Misra, and Deveneder Singh.-<b><i>A v-constrained Matrix Adaptation Evolution Strategy with Broyden-based Mutation for Constrained Optimization</i></b>, IEEE Transaction on Cybernetics, <ul style="color:rgba(95, 5, 5, 1)"><b><em>Accepted for Publication</em></b></ul> </li>
+      <li> <b>Abhishek Kumar</b>, Swagatam Das, Rakesh Kumar Misra, and Deveneder Singh.-<b><i>A v-constrained Matrix Adaptation Evolution Strategy with Broyden-based Mutation for Constrained Optimization</i></b>, IEEE Transaction on Cybernetics, <p style="color:rgba(95, 5, 5, 1)"><b><em>Accepted for Publication</em></b></p> </li>
     </ul>
 </ul>
 
