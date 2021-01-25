@@ -20,7 +20,7 @@ author_profile: true
  
   <li> <b><em> Accepted/Published </em></b> </li>
     <ul style="list-style-type:disc;font-weight:bold;background-color:rgba(210, 255, 232, 0.2); color:rgba(17, 5, 95, 1);text-align: justify;font-family:'Times New Roman', serif">
-      <li> <spam style="color:rgba(42, 0, 0, 1)"><b><em>Abhishek Kumar</em></b>, Swagatam Das, Rakesh Kumar Misra, and Deveneder Singh</spam>.-<b><i>A v-constrained Matrix Adaptation Evolution Strategy with Broyden-based Mutation for Constrained Optimization</i></b>, IEEE Transaction on Cybernetics, <spam style="color:rgba(95, 5, 5, 1)"><b><em>Accepted for Publication</em></b></spam> </li>
+      <li> <spam style="color:rgba(42, 0, 0, 1)"><em>Abhishek Kumar</em>, Swagatam Das, Rakesh Kumar Misra, and Deveneder Singh</spam>.-<em>A v-constrained Matrix Adaptation Evolution Strategy with Broyden-based Mutation for Constrained Optimization</em>, IEEE Transaction on Cybernetics, <spam style="color:rgba(95, 5, 5, 1)"><em>Accepted for Publication</em></spam> </li>
     </ul>
 </ul>
 
