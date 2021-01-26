@@ -7,9 +7,10 @@ author_profile: true
 <h1 style="color:Red;font-family:courier"> <b>Journals</b></h1>
 <ul style="font-size:15px;list-style-type:circle;background-color:rgba(210, 255, 232, 0.2); color:rgba(5, 95, 39, 1);text-align: justify;font-family:'Times New Roman', serif">
   <li> <b><em> Under Review and Preparation</em></b> </li>
-      <ul style="list-style-type:disc;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:'Times New Roman', serif">
-        <li> at CEC-2021, Krakow, Poland, 28 June -01 July 2021 (with full paper), </li>
-        <li> at GECCO 2021, Lille, France, 10-14 July 2021 (with 2-page paper). </li>
+      <ul style="list-style-type:disc;font-weight:bold;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:'Times New Roman', serif">
+        <li> <spam style="color:rgba(42, 0, 0, 1)"><em>Abhishek Kumar</em>, Partha Biswas and Ponnuthurai Suganthan</spam>.-<em>Differential Evolution with Orthogonal Array-based Initialization and a Novel Selection Strategy</em>, <spam style="color:rgba(0, 71, 77, 1)">Swarm and Evolutionary Computation,</spam> <spam style="color:rgba(95, 5, 5, 1)"><em>Under Review</em></spam>.  <spam style="color:rgba(0, 71, 77, 1)">(ISSN: 2210-6502, SCI, Impact Factor: 6.912)</spam> </li>
+        <li> <spam style="color:rgba(42, 0, 0, 1)"><em>Abhishek Kumar</em>, Swagatam Das,  Lingping Kong and Vaclav Snasel</spam>.-<em>Differential Evolution with Orthogonal Array-based Initialization and a Novel Selection Strategy</em>, <spam style="color:rgba(0, 71, 77, 1)">Spherical Search with A Low Precision Projection Matrix for Real-World Optimization,</spam> <spam style="color:rgba(95, 5, 5, 1)"><em>Under Review</em></spam>.  <spam style="color:rgba(0, 71, 77, 1)">(ISSN: 2168-2267, SCI, Impact Factor: 10.387)</spam> </li>
+        <li> <spam style="color:rgba(42, 0, 0, 1)"><em>Abhishek Kumar</em>, Bablesh Kumar Jha, Swagatam Das, and Rammohan Mallipeddi</spam>.-<em>Spherical Search based Constrained Optimization Algorithm for Power Flow Analysis of Islanded Microgrids</em>, <spam style="color:rgba(0, 71, 77, 1)">Applied Soft Computing,</spam> <spam style="color:rgba(95, 5, 5, 1)"><em>Under Review</em></spam>.  <spam style="color:rgba(0, 71, 77, 1)">(ISSN: 1568-4946, SCI, Impact Factor: 5.472)</spam> </li>
   </ul>
 
   <li>  <b><em> Under Revision </em></b> </li>
