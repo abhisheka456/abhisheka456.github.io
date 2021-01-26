@@ -14,8 +14,10 @@ author_profile: true
 
   <li>  <b><em> Under Revision </em></b> </li>
       <ul style="list-style-type:disc;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:'Times New Roman', serif">
-        <li> at CEC-2021, Krakow, Poland, 28 June -01 July 2021 (with full paper), </li>
-        <li> at GECCO 2021, Lille, France, 10-14 July 2021 (with 2-page paper). </li>
+        <li> <spam style="color:rgba(42, 0, 0, 1)"><em>Abhishek Kumar</em>, Guohua Wo, Mostafa Ali, Qizhang Luo, Rammohan Mallipeddi, Ponnuthurai Suganthan and Swagatam Das.</spam>.-<em>A Benchmark-Suite of Real-World Constrained Multi-Objective Optimization Problems and some Baseline Results</em>, <spam style="color:rgba(0, 71, 77, 1)">Swarm and Evolutionary Computation,</spam> <spam style="color:rgba(95, 5, 5, 1)"><em>Major Revision</em></spam>.  <spam style="color:rgba(0, 71, 77, 1)">(ISSN: 2210-6502, SCI, Impact Factor: 6.912)</spam> </li>
+        <li> <spam style="color:rgba(42, 0, 0, 1)"><em>Abhishek Kumar</em>, Swagatam Das, and Rammohan Mallipeddi</spam>.-<em>An Inversion-free Robust Power Flow Algorithm for Microgrids</em>, <spam style="color:rgba(0, 71, 77, 1)">IEEE Transactions on Smart Grid,</spam> <spam style="color:rgba(95, 5, 5, 1)"><em>Major Revision</em></spam>.  <spam style="color:rgba(0, 71, 77, 1)">(ISSN: 1949-3053, SCI, Impact Factor: 8.267)</spam> </li>
+        <li> <spam style="color:rgba(42, 0, 0, 1)"><em>Abhishek Kumar</em>, Swagatam Das, and Vaclav Snasel</spam>.-<em>Self-Adaptive Spherical Search for Bound-constrained  and Constrained Optimization</em>, <spam style="color:rgba(0, 71, 77, 1)">IEEE Transactions on Systems, Man, and Cybernetics: Systems,</spam> <spam style="color:rgba(95, 5, 5, 1)"><em>Revise and Resubmit</em></spam>.  <spam style="color:rgba(0, 71, 77, 1)">(ISSN: 2168-2216, SCI, Impact Factor: 9.309)</spam> </li>
+        <li> <spam style="color:rgba(42, 0, 0, 1)"><em>Abhishek Kumar</em>, Bablesh Kumar Jha, Swagatam Das, and Rammohan Mallipeddi</spam>.-<em>Solving the Power Flow Problem of Droop Controlled Islanded Microgrids:  A Differential Evolution Approach</em>, <spam style="color:rgba(0, 71, 77, 1)">IEEE Access,</spam> <spam style="color:rgba(95, 5, 5, 1)"><em>Revise and Resubmit</em></spam>.  <spam style="color:rgba(0, 71, 77, 1)">(ISSN: 2169-3536, SCI, Impact Factor: 3.745)</spam> </li>
   </ul>
  
   <li> <b><em> Accepted/Published </em></b> </li>
