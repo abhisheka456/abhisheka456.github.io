@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+#more {display: none;}
+</style>
 <h1 style="color:Red;font-family:courier"> <b>News</b></h1>
 <ul style="font-size:14px;list-style-type:circle;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:helvetica">
   <li> We are organizing  <b><i> "Special Session & Competition on Real-World Multiobjective Constrained Optimization" </i></b> </li>
