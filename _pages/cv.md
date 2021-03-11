@@ -6,39 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-.btn {
-  background-color: DodgerBlue;
-  border: none;
-  color: white;
-  padding: 12px 30px;
-  cursor: pointer;
-  font-size: 20px;
-}
-
-/* Darker background on mouse-over */
-.btn:hover {
-  background-color: RoyalBlue;
-}
-</style>
-</head>
-<body>
-
-<h2>Style Download Buttons</h2>
-
-<p>Auto width:</p>
-<button class="btn"><i class="fa fa-download"></i> Download</button>
-
-
-</body>
-</html>
-
+ <embed src="https://abhisheka456.github.io/files/CV.pdf" width="600px" height="500px" />
 
 {% include base_path %}
 <style> div { background-color: rgba(210, 255, 232, 0.2); } <\style>
