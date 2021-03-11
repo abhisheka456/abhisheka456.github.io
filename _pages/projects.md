@@ -23,6 +23,7 @@ author_profile: true
     <li> <spam style="color:rgba(42, 0, 0, 1)"> Developing constraint handling techniques.</spam> </li>
     <li> <spam style="color:rgba(42, 0, 0, 1)"> Developing repair techniques.</spam> </li>
     </ul>
+  </ul>
 
 <ul style="font-size:15px;list-style-type:circle;background-color:rgba(210, 255, 232, 0.2); color:rgba(5, 95, 39, 1);text-align: justify;font-family:'Times New Roman', serif">
   <li> <b><em> Unconstrained Optimization:</em></b> </li>
@@ -31,6 +32,7 @@ author_profile: true
     <li> <spam style="color:rgba(42, 0, 0, 1)"> Developing local search strategies.</spam> </li>
     <li> <spam style="color:rgba(42, 0, 0, 1)"> Developing parameter adaptation techniques to automatically tune parameters.</spam> </li>
     </ul>
+  </ul>
 
 
 <style> div { background-color: rgba(210, 255, 232, 0.2); } <\style>
