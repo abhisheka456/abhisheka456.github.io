@@ -32,6 +32,24 @@ redirect_from:
 </ul>
 <button onclick="myFunction()" id="myBtn">Read more</button>
 
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
 <h1 style="color:Red;font-family:courier"> <b>Short Biography</b></h1>
 <p style="font-size:14px;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:helvetica"> <b>Dr. Abhishek Kumar</b> received the B.Tech degree in Electrical Engineering from Uttarakhand Technical University, Dehradun in 2013. He finished his Ph.D. in Systems Engineering at the Department of Electrical Engineering, Indian Institute of Technology (BHU), Varanasi, India in 2019. He is the recipient of the “Young Researcher Award-2016” from the IEEE CIS Chapter, UP section, IIT Kanpur. His developed optimization algorithms “EBOwithCMAR” and “SASS” have secured the first position in IEEE CEC-2017 special session and competition on bound-constrained optimization and IEEE CEC-2020/GECCO-2020 special session and competition on real-world constrained optimization, respectively. His current research interests include swarm and evolutionary computation and its application in real-world optimization problems especially in Power System Optimization applications and Machine Learning. He also serves as a reviewer for several journals including IEEE TCYB, IET GTD, SWEVO, and ASOC. </p>
 
