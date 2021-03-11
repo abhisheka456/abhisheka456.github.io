@@ -44,7 +44,7 @@ author_profile: true
       <li> <spam style="color:rgba(42, 0, 0, 1)">Tarun Maini, <em>Abhishek Kumar</em>, Rakesh Kumar Misra, and Devender Singh</spam>.-<em>Intelligent Fuzzy Rough Set Based Feature Selection  using Swarm algorithms with improved initialization</em>, <spam style="color:rgba(0, 71, 77, 1)">Journal of Intelligent and Fuzzy Systems (JIFS), vol. 27, July. 2019. (ISSN: 1875-8967, SCI Expanded, Impact Factor: 1.851)</spam> </li>
       <li> <spam style="color:rgba(42, 0, 0, 1)">Bablesh Kumar Jha, Amit Singh, <em>Abhishek Kumar</em>, Dharmendra Kumar Dheer, Devender Singh and Rakesh Kumar Misra</spam>.-<em>Day ahead scheduling of PHEVs and D-BESSs in presence of DGs in distribution system</em>, <spam style="color:rgba(0, 71, 77, 1)">IET Electrical Systems in Transportation 10.2 (2019): 170-184. (ISSN: 1875-8967, SCI Expanded, Impact Factor: ----)</spam> </li>
       <li> <spam style="color:rgba(42, 0, 0, 1)">Bablesh Kumar Jha, Amit Singh, <em>Abhishek Kumar</em>, Devender Singh and Rakesh Kumar Misra</spam>.-<em>Phase Unbalance and PAR Constrained Optimal Active and Reactive Power Scheduling of Virtual Power Plants (VPPs)</em>, <spam style="color:rgba(0, 71, 77, 1)">International Journal of Electrical Power & Energy Systems 125 (2021): 106443. (ISSN: 0142-0615, SCI Expanded, Impact Factor: 3.588)</spam> </li>
-    </ul>
+    </ul></span>
 </ul><button onclick="myFunction()" id="myBtn">Read more</button>
 
 <script>
