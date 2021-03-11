@@ -33,6 +33,15 @@ author_profile: true
     <li> <spam style="color:rgba(42, 0, 0, 1)"> Developing parameter adaptation techniques to automatically tune parameters.</spam> </li>
     </ul>
   </ul>
+  
+<ul style="font-size:15px;list-style-type:circle;background-color:rgba(210, 255, 232, 0.2); color:rgba(5, 95, 39, 1);text-align: justify;font-family:'Times New Roman', serif">
+  <li> <b><em> Multi- and Many-Optimization:</em></b> </li>
+  <ul style="list-style-type:disc;font-weight:bold;background-color:rgba(210, 255, 232, 0.2); color:rgba(98, 0, 0, 1);text-align: justify;font-family:'Times New Roman', serif">
+    <li> <spam style="color:rgba(42, 0, 0, 1)"> Developing new search strategies for handling multiple objectives.</spam> </li>
+    <li> <spam style="color:rgba(42, 0, 0, 1)"> Developing new selection schemes to deal with irregular Pareto fronts.</spam> </li>
+    <li> <spam style="color:rgba(42, 0, 0, 1)"> Developing diversity enhancement schemes.</spam> </li>
+    </ul>
+  </ul>
 
 
 <style> div { background-color: rgba(210, 255, 232, 0.2); } <\style>
